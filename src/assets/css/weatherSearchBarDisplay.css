@@ -1,0 +1,8 @@
+.weather-gradient {
+    background: rgb(254,255,142);
+    background: linear-gradient(90deg, rgba(254,255,142,0.3925945378151261) 8%, rgba(166,240,255,0.8071603641456583) 100%);
+}
+
+.bottom-row {
+    height: 4rem;
+}

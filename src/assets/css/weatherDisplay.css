@@ -1,0 +1,9 @@
+.weather-display {
+    background-color: #f2f2f2;
+}
+
+.side-box {
+    display:flex;
+    align-items: center;
+    height: 50%;
+}
