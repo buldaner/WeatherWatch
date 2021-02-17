@@ -1,5 +1,5 @@
 # WeatherWatch
-Test react app.
+Test React app.
 
 To install and run:
 
